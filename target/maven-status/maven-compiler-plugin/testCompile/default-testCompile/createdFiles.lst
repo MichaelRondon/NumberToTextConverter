@@ -1,0 +1,13 @@
+com/mfra/service/integration/ConvertIntegrationTest.class
+com/mfra/service/OneDigitConverterTest.class
+com/mfra/service/TwoDigitsConverterTest.class
+com/mfra/service/OneDigitConverterTest$TestContextConfiguration.class
+com/mfra/service/SignManagerConverterTest$TestContextConfiguration.class
+com/mfra/service/MoreThanTwoDigitsConverterTest.class
+com/mfra/service/ConverterUnitTest.class
+com/mfra/service/MoreThanTwoDigitsConverterTest$TestContextConfiguration.class
+com/mfra/service/integration/ConverterIntegrationTest.class
+com/mfra/service/NumberToTextConverterTest.class
+com/mfra/service/SignManagerConverterTest.class
+com/mfra/service/TwoDigitsConverterTest$TestContextConfiguration.class
+com/mfra/service/NumberToTextConverterTest$TestContextConfiguration.class

@@ -1,0 +1,8 @@
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/OneDigitConverterTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/NumberToTextConverterTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/ConverterUnitTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/integration/ConvertIntegrationTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/TwoDigitsConverterTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/MoreThanTwoDigitsConverterTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/integration/ConverterIntegrationTest.java
+/home/michael.rondon/REPO/number-to-text-converter/src/test/java/com/mfra/service/SignManagerConverterTest.java
