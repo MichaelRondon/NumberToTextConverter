@@ -11,7 +11,7 @@ Maximum allowed value: 9223372036854775807 (Long.MAX_VALUE)
 
 Minimun allowed value: -9223372036854775807 (Long.MIN_VALUE+1)
 
-The application only accepts integers, not decimal values and not allow symbols (except the minus '-').
+The application only accepts integers, not decimal values and not allow symbols (except for the minus '-').
 
 ## General
 #### Build
