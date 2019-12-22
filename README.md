@@ -4,9 +4,13 @@
 REST API which converts long entries to text.
 
 ## Important
+
 A billion is considered as 10¹², a trillion 10¹⁸
+
 Maximum allowed value: 9223372036854775807 (Long.MAX_VALUE)
+
 Minimun allowed value: -9223372036854775807 (Long.MIN_VALUE+1)
+
 The application only accepts integers, not decimal values and not allow symbols (except the minus '-').
 
 ## General
