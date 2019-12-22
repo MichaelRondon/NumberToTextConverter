@@ -46,7 +46,7 @@ mvn clean test
 
 ## Testing using Rest Assured
 
-Build and runt the app. Then, on another terminal console execute:
+Build and run the app. Then, on another terminal console execute:
 ```
 mvn clean test -Pintegration
 ```
