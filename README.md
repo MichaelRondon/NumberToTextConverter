@@ -5,7 +5,7 @@ REST API which converts long entries to text.
 
 ## Important
 
-A billion is considered as 10¹², a trillion 10¹⁸
+A billion is considered as 10¹², a trillion 10¹⁸ (Long scale https://en.wikipedia.org/wiki/Long_and_short_scales)
 
 Maximum allowed value: 9223372036854775807 (Long.MAX_VALUE)
 
